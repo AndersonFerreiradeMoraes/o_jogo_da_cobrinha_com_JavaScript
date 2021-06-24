@@ -1,0 +1,11 @@
+body{
+    height: 94vh; /*altura de viewport height*/
+    width: 94vw; /*largura de viewport width*/
+    display: flex; /*vai deixar os elementos do lado do outro*/
+    flex-direction: column; /*vai deixar um elemento embaixo do outro*/
+    justify-content: center; /*os espaços entre e em volta dos itens vão ficar no centro*/
+    align-items: center; /*alinhando os itens no centro*/
+    background-image: url(img/jogo\ da\ cobrinha.jpg); /*cor de fundo*/
+    color: #030303; /*cor da fonte*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
